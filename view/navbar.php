@@ -12,7 +12,7 @@
 
 
     <ul class="nav navbar-nav navbar-right">
-        <li><div class="navigationUser">Hi Admin<?php //echo ucfirst($_SESSION['adminName'])?></div></li>
+        <li><div class="navigationUser">Hi Admin</div></li>
         <li><a href="../../signout.php">Sign out</a></li>
     </ul>
 </nav>
